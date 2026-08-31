@@ -1,0 +1,5 @@
+Query: software engineering
+Maximum Similarity : 0.1504
+Minimum Similarity : 0.0000
+Range              : 0.1504
+Most Relevant Document: dataset_10_software_engineering.txt
